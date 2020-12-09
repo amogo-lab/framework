@@ -1,1 +1,1 @@
-# AMogo Php8 Framework components.
+# AMogoLab - A PHP8 Framework.
